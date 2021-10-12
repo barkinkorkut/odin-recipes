@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    font-size: 52px;
+    color: rgb(216, 41, 50);
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    background-color: seagreen;
+}
+
+h2{
+    text-align: center;
+    font-size: 42px;
+    color: tomato;
+}
+
+#a {
+    text-align: left;
+}
+
+p, li{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}

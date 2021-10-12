@@ -1,0 +1,35 @@
+h1 {
+    font-family: sans-serif, Times, "Times New Roman";
+    text-align: center;
+    font-size: 52px;
+    color: rgb(211, 113, 27);
+}
+
+a:link {
+    color: rgb(78, 218, 78);
+    font-size: 32px;
+    font-family: monospace;
+    text-decoration: none;
+}
+
+a:visited{
+    color: rgb(179, 21, 21);
+}
+
+a:hover {
+    color: rgb(224, 204, 20);
+    font-size: 36px;
+    text-decoration: underline;
+}
+
+a:active {
+    color: hotpink;
+}
+
+body{
+    background-color: rgb(20, 224, 224);
+}
+
+ul{
+    color: brown;
+}

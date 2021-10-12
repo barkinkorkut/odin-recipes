@@ -1,0 +1,30 @@
+body {
+    background-color: salmon;
+}
+
+h1 {
+    text-align: center;
+    font-size: 52px;
+    color: rgb(219, 193, 76);
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    text-align: center;
+    font-size: 42px;
+    color: sandybrown;
+}
+
+#b {
+    text-align: left;
+}
+
+p, li{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
